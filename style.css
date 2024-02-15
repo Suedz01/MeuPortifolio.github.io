@@ -1,0 +1,367 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 1087px;
+  position: relative;
+  overflow: hidden;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 500px;
+  position: static;
+}
+.rectangle-7 {
+  background: #dda15e;
+  width: 1440px;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-8 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 101px;
+  top: 48px;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 770px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.suedz-01 {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.sobre {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.projetos {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.contato {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 266px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-8 {
+  flex-shrink: 0;
+  width: 307px;
+  height: 301px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.game-developer {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Bold", sans-serif;
+  font-size: 32.279998779296875px;
+  font-weight: 700;
+  position: relative;
+}
+.unity-unreal {
+  color: #bc6c25;
+  text-align: left;
+  font-family: "RobotoSerif-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 382px;
+  height: 69px;
+  position: static;
+}
+.hey-there-my-name-is-alexandre-sued {
+  color: #fefae0;
+  text-align: left;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 99px;
+}
+.i-m-passionate-in-game-developing-and-some-other-stuffs-too {
+  color: #fefae0;
+  text-align: justified;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 122px;
+  width: 382px;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.group-3 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 437px;
+  position: static;
+}
+.rectangle-9 {
+  background: #fefae0;
+  width: 1440px;
+  height: 437px;
+  position: absolute;
+  left: 0px;
+  top: 500px;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: row;
+  gap: 106px;
+  align-items: center;
+  justify-content: center;
+  width: 1239px;
+  position: absolute;
+  left: 101px;
+  top: 566px;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-10 {
+  background: #283618;
+  flex-shrink: 0;
+  width: 150px;
+  height: 10px;
+  position: relative;
+}
+.quem-sou-eu {
+  color: #283618;
+  text-align: left;
+  font-family: "RobotoSerif-SemiBold", sans-serif;
+  font-size: 32.279998779296875px;
+  font-weight: 600;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum {
+  color: #606c38;
+  text-align: justified;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  width: 484px;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: row;
+  gap: 102px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector5 {
+  flex-shrink: 0;
+  width: 60px;
+  height: 68px;
+  position: relative;
+  overflow: visible;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.game-developer2 {
+  color: #283618;
+  text-align: left;
+  font-family: "RobotoSerif-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  color: #606c38;
+  text-align: justified;
+  font-family: "RobotoSerif-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  width: 484px;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: row;
+  gap: 97px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector6 {
+  flex-shrink: 0;
+  width: 68px;
+  height: 68px;
+  position: relative;
+  overflow: visible;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.art-design {
+  color: #283618;
+  text-align: left;
+  font-family: "RobotoSerif-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.group-5 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 150px;
+  position: static;
+}
+.rectangle-11 {
+  background: #283618;
+  width: 1440px;
+  height: 150px;
+  position: absolute;
+  left: 0px;
+  top: 937px;
+}
+.group-4 {
+  width: 589px;
+  height: 86px;
+  position: absolute;
+  left: 425px;
+  top: 969px;
+  overflow: visible;
+}
